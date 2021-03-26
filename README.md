@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Tribute Page
 
 ![screenshot](./assets/images/screenshot.png)
