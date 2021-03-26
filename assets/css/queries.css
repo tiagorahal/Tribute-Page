@@ -10,21 +10,21 @@
   }
 
   .bottom-font {
-    font-size: 1.0em;
+    font-size: 1em;
   }
 }
 
 @media (min-width: 992px) {
-    .w-main {
-      width: 50%;
-      margin: auto;
-    }
-
-    .bottom-font {
-      font-size: 1.3em;
-      text-align: center;
-    }
+  .w-main {
+    width: 50%;
+    margin: auto;
   }
+
+  .bottom-font {
+    font-size: 1.3em;
+    text-align: center;
+  }
+}
 
 @media (min-width: 1200px) {
   .w-main {
@@ -38,7 +38,3 @@
   }
 }
 
-
-@media (min-width: 1400px) {
-
-}
