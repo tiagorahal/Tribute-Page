@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  background-color: rgba(172, 169, 169, 0.671);
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+
+@media (max-width: 575.98px) {
+
+}
+
+@media (max-width: 767.98px) {
+
+}
+
+@media (max-width: 991.98px) {
+  
+}
+
+@media (max-width: 1199.98px) {
+  
+}
+
+@media (max-width: 1399.98px) {
+  
+}
