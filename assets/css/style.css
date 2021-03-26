@@ -5,27 +5,29 @@
 
 #main {
   background-color: rgba(172, 169, 169, 0.671);
-  margin-left: 2%;
-  margin-right: 2%;
 }
 
-
-@media (max-width: 575.98px) {
-
+.w-main {
+  width: auto;
 }
 
-@media (max-width: 767.98px) {
-
+.paragraph-align {
+  text-align: start;
 }
 
-@media (max-width: 991.98px) {
-  
+.title-main {
+  font-size: 1em;
 }
 
-@media (max-width: 1199.98px) {
-  
+.figcaption-font {
+  font-size: 1em;
 }
 
-@media (max-width: 1399.98px) {
-  
+.bottom-font {
+  font-size: 1.0em;
+  text-align: center;
+}
+
+.padding-image {
+  padding: 20px;
 }
