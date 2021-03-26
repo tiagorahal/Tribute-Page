@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Tic_tac_toe_game
+# Tribute Page
 
-![screenshot](------------)
+![screenshot](./assets/images/screenshot.png)
 
-> A solo project of a tribute page following the guidelines from the freeCodeCamp [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+> A solo project of a tribute page following the guidelines from the freeCodeCamp [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page), using the Microverse linters.
 
 ## Built With
 
@@ -17,7 +17,7 @@
 
 ### Setup
 
-* Enter the live version [link](----------------)
+* Enter the live version [link](https://tiagorahal.github.io/Tribute-Page/)
 
 ## Author
 
