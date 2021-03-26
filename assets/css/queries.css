@@ -1,0 +1,39 @@
+@media (min-width: 576px) {
+  .padding-image {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .padding-image {
+    padding: 50px;
+  }
+
+  .bottom-font {
+    font-size: 1em;
+  }
+}
+
+@media (min-width: 992px) {
+  .w-main {
+    width: 50%;
+    margin: auto;
+  }
+
+  .bottom-font {
+    font-size: 1.3em;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1200px) {
+  .w-main {
+    width: 50%;
+  }
+
+  .padding-image {
+    padding: 20px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+  }
+}
